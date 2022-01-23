@@ -1,7 +1,7 @@
 # canteen-inventory-management
-This is a project to be made with java swing, jdbc and MySQL for database.
+An Inventory management system made for the college canteen using concepts of Java and SQL.
 
-relational schema for the project : 
+Relational schema for the project : 
 https://drawsql.app/teamd3/diagrams/canteen-inventory
 
 Functionality blueprint : 
